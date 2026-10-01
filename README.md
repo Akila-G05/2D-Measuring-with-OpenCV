@@ -104,7 +104,7 @@ block size and `C`) and `object_detector.py:23` (minimum contour area).
 - Print the marker at actual size — do not scale it in a word processor without
   recalibrating the `REFERENCE_*` values.
 - Measure the black square itself, not the white quiet zone around it.
-- Accuracy is relative to the camera resolution and object distance.
+- Accuracy is relative to the camera resolution and object distance..
 
 ## License
 
